@@ -1,0 +1,27 @@
+{
+  "name": "@pgrdaw/bananize",
+  "version": "1.0.0",
+  "description": "convierte cualquier array en un array de bananas",
+  "main": "bananize.js",
+  "scripts": {
+    "test": "console.log (banana([8, true, 'dsfg', null,  [8, 'sdf']]))"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgrdaw-23-24/EC03EJ3PublicacionNPM.git"
+  },
+  "keywords": [
+    "banana",
+    "bananize",
+    "pgrdaw"
+  ],
+  "author": "pgrdaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgrdaw-23-24/EC03EJ3PublicacionNPM/issues"
+  },
+  "homepage": "https://github.com/pgrdaw-23-24/EC03EJ3PublicacionNPM#readme",
+  "dependencies": {
+    "bananize": "^1.0.0"
+  }
+}
